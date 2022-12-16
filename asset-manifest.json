@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Product-App/static/css/main.38e2a1a1.css",
-    "main.js": "/Product-App/static/js/main.cfa9fd4d.js",
+    "main.js": "/Product-App/static/js/main.decbd3b5.js",
     "static/media/glyphicons-halflings-regular.svg": "/Product-App/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/glyphicons-halflings-regular.ttf": "/Product-App/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/glyphicons-halflings-regular.woff": "/Product-App/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
@@ -9,10 +9,10 @@
     "static/media/glyphicons-halflings-regular.woff2": "/Product-App/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/Product-App/index.html",
     "main.38e2a1a1.css.map": "/Product-App/static/css/main.38e2a1a1.css.map",
-    "main.cfa9fd4d.js.map": "/Product-App/static/js/main.cfa9fd4d.js.map"
+    "main.decbd3b5.js.map": "/Product-App/static/js/main.decbd3b5.js.map"
   },
   "entrypoints": [
     "static/css/main.38e2a1a1.css",
-    "static/js/main.cfa9fd4d.js"
+    "static/js/main.decbd3b5.js"
   ]
 }
